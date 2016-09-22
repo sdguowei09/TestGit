@@ -54,7 +54,7 @@ public class CheckedObject implements Serializable {
     }
 
     public String getCheckedObjectName() {
-        return checkedObjectName;
+        return checkedObjectName;;
     }
 
     public void setCheckedObjectName(String checkedObjectName) {
